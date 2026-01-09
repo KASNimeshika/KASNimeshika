@@ -15,7 +15,7 @@
 <ul>
   <li>🌱 I’m currently learning <b>Python</b></li>
   <li>🎓 Undergraduate <b>BICT</b> student</li>
-  <li>💬 Ask me about <b>Data Analysis</b></li>
+  <li>💬 Ask me about <b>Bussiness Analysis</b></li>
   <li>📫 How to reach me: <b>sajaninimeshika016@gmail.com</b></li>
 </ul>
 
